@@ -1,0 +1,48 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+.mat-elevation-z8{
+margin-top:5%;
+box-shadow: rgba(240, 46, 170, 0.4) -5px 5px, rgba(240, 46, 170, 0.3) -10px 10px, rgba(240, 46, 170, 0.2) -15px 15px, rgba(240, 46, 170, 0.1) -20px 20px, rgba(240, 46, 170, 0.05) -25px 25px;
+}
+
+.text{
+  color:white;
+  /* word-spacing: 10px; */
+}
+
+.main-body{
+  padding-top: 20px;
+  max-width:1248px;
+  margin: 0 auto;
+}
+mat-form-field{
+  width: 100%;
+}
+.action{
+  display: flex;
+  gap: 5px;
+}
+.user{
+  position: absolute; 
+  bottom: 0;
+margin-left: 47% ;
+margin-bottom: 2%;
+}
+/* .btn-2{
+  color: red;
+  
+}
+.btn-1{
+  color: green;
+} */
+
+/* .container{
+  width: 100vw;
+  height: 100vh;
+  background-image: url(../assets/images/bg1.jpeg);
+  background-size: cover;
+}
+.container::-webkit-scrollbar {
+  display: none;
+} */

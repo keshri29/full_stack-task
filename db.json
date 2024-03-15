@@ -1,0 +1,52 @@
+{
+  "user": [
+    {
+      "id": "c1c2",
+      "firstname": "jdnsd",
+      "fathername": "dkokj",
+      "email": "jask@gmail.com",
+      "dob": "2021-01-31T18:30:00.000Z",
+      "gender": "",
+      "education": "Btech",
+      "company": "IT",
+      "exp": 1,
+      "package": 11
+    },
+    {
+      "id": "ef94",
+      "firstname": "sada",
+      "fathername": "asasd",
+      "email": "asdad@gmail.com",
+      "dob": "2024-03-01T18:30:00.000Z",
+      "gender": "male",
+      "education": "Eng",
+      "company": "IT",
+      "exp": 2,
+      "package": 22
+    },
+    {
+      "id": "23ff",
+      "firstname": "scssd",
+      "fathername": "sdsa",
+      "email": "a@ssd",
+      "dob": "2024-03-05T18:30:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "it",
+      "exp": 3,
+      "package": 23
+    },
+    {
+      "id": "89d7",
+      "firstname": "sdfssdfs",
+      "fathername": "fsdf",
+      "email": "sdf@df",
+      "dob": "2024-03-12T18:30:00.000Z",
+      "gender": "female",
+      "education": "Btech",
+      "company": "gov",
+      "exp": 4,
+      "package": 43
+    }
+  ]
+}
